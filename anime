@@ -1,0 +1,31 @@
+<html>
+  <head>
+ <title>spy x family</title>
+  <style>
+      <link rel="icon"type="image/jpg" href=""
+        body{
+      backgroundimage:ul("https://m.media-amazon.com/images/M/MV5BZDY5NTI3ZjUtNGY5ZC00MmE1LWI0ZTUtNDI3YTQ0NGFkMWJlXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_FMjpg_UX1000_.jpg");
+     background-colour: pink;
+     font-family:sans-sarif;
+     colour:green;
+     image-size:50px;
+      }
+     button{
+      background-colour:gray
+      width:400px;
+      }
+</style></head>
+<body>
+ <div class="container">
+     <h1>spy x family</h1>
+     <h2><i>family is important</i></h2>
+     
+  <p><ol>🕵️‍♂️ Spy × Family is a wildly popular Japanese manga and anime series created by Tatsuya Endo that blends espionage, comedy, and heartwarming family dynamics.</ol>
+     <ol>The story follows Loid Forger, a master spy codenamed "Twilight," who must assemble a fake family to infiltrate an elite school and get close to a political target. Unbeknownst to him, his adopted daughter Anya is a telepath, and his wife Yor is a deadly assassin—each hiding their true identity from the others. Together, they navigate everyday life while juggling secret missions, school drama, and unexpected emotional bonds.</ol>
+     <ol>🎀With its clever storytelling and lovable characters, Spy × Family has captured the hearts of fans worldwide.</ol></p>
+     
+ <button>best animations</button> <button>want to watch</button>
+     
+ </div>
+</body>
+</html>
